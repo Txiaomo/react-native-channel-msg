@@ -3,6 +3,8 @@
 
 ## Getting started
 
+`$ yarn add react-native-channel-msg`
+
 `$ npm install react-native-channel-msg --save`
 
 ### Mostly automatic installation
