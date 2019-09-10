@@ -1,0 +1,25 @@
+{
+  "name": "react-native-channel-msg",
+  "version": "1.0.0",
+  "description": "android 8.0 发送渠道通知的Reactnative插件",
+  "main": "index.js",
+  "scripts": {
+    "test": "yarn add react-native-channel-msg"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Txiaomo/react-native-channel-msg.git"
+  },
+  "keywords": [
+    "react-native"
+  ],
+  "peerDependencies": {
+    "react-native": "^0.41.2"
+  },
+  "author": "vision",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Txiaomo/react-native-channel-msg/issues"
+  },
+  "homepage": "https://github.com/Txiaomo/react-native-channel-msg#readme"
+}
